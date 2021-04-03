@@ -3,6 +3,9 @@ import random
 import pygame
 from pygame import mixer
 
+# Source code credit: attreyabhatt
+# https://github.com/attreyabhatt/Space-Invaders-Pygame 
+
 #initializes the game using pygame
 pygame.init()
 
